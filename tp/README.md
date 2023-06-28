@@ -3,6 +3,8 @@ Actyvity cards
 Nuestras tarjetas de tareas te ayudarán a mantener todo en orden.
 Para acceder el usuario deberá registrarse con su email y una contraseña.
 Una vez registrado ingresará a la página principal donde aparecerá su nombre de registro, podrá ver la información, completar formulario y lo principal empezar a interactuar con sus tarjetas de tareas.
+
+
 DEPENDENCIAS INSTALADAS: node.js/ react/ react icons/uudiv4(genera un Id único a cada tarjeta)
 node.js: Entorno de ejecución para ejecutar aplicaciones Javascript.
 React con Vit: => npm create vite@latest (nombre del proyecto) --  --template react
